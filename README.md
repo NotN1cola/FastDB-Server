@@ -1,4 +1,4 @@
-# FastDB
+# FastDB: Server
 
 ## Description
 
