@@ -10,7 +10,7 @@ class createDatabase:
 
         if os.path.exists(databaseFileDirectory) == False:
             with open(databaseFileDirectory, 'w') as file:
-                file.write("{\n    \n}")
+                file.write('{\n    "data": {}\n}')
             return True
 
         else:

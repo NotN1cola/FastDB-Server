@@ -1,6 +1,4 @@
 {
     "login": {
-        "1234": ["all", "superAdmin"],
-        "4123": ["paolo", "localAdmin"]
     }
 }
